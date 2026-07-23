@@ -1,6 +1,7 @@
 import re
 import sys
 
+
 def parsesoltext(soltext: str,n: int) -> list[list[int]]:
     """Given program output, extract a 2-d solution array from the last n lines that have solution-like format."""
     array: list[list[int]] = []
