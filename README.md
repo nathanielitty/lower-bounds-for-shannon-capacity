@@ -7,5 +7,7 @@ The files in this directory are the non-lowerbound-improving independent sets no
 File CC_x_y_z.txt is an independent set of size z in the strong x-product of cycle graph Cy.
 
 verifier.py checks an independent set file, for example:
+
 python verifier.py < CC_4_11_766.txt
+
 This prints 'True' indicating successful verification.
