@@ -1,6 +1,7 @@
 # Improved lower bounds for the Shannon capacity of odd cycles
 
 This is the repository for:
+
 Nathaniel Itty, Christopher D. Rosin, Chase Carstensen, and Daniel Reichman (2026).  Improved lower bounds for the Shannon capacity of odd cycles.  https://arxiv.org/pdf/2607.21517
 
 The C7, C11, and C13 directories contain the construction scripts, inputs, and outputs for the Shannon capacity lowerbound-improving constructions.
